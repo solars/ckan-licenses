@@ -1,0 +1,69 @@
+[
+  {
+    "domain_content": true, 
+    "domain_data": false, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "cc-by", 
+    "is_okd_compliant": true, 
+    "is_osi_compliant": false, 
+    "maintainer": "", 
+    "status": "active", 
+    "title": "Creative Commons Attribution License", 
+    "url": "https://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "domain_content": true, 
+    "domain_data": false, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "cc-by-at-30", 
+    "is_okd_compliant": true, 
+    "is_osi_compliant": false, 
+    "maintainer": "", 
+    "status": "active", 
+    "title": "Creative Commons Namensnennung 3.0 Österreich", 
+    "url": "https://creativecommons.org/licenses/by/3.0/at/deed.de"
+  },      
+  {
+    "domain_content": true, 
+    "domain_data": false, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "cc-by-sa", 
+    "is_okd_compliant": true, 
+    "is_osi_compliant": false, 
+    "maintainer": "", 
+    "status": "active", 
+    "title": "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Österreich", 
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en"
+  }, 
+  {
+    "domain_content": true, 
+    "domain_data": false, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "other-pd", 
+    "is_generic": true, 
+    "is_okd_compliant": true, 
+    "is_osi_compliant": false, 
+    "maintainer": "", 
+    "status": "active", 
+    "title": "Public Domain", 
+    "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Bundesnormen&Dokumentnummer=NOR12024408&ResultFunctionToken=a35ee95a-152f-4b8a-9450-88462c6d1a33&Position=1&Kundmachungsorgan=&Index=&Titel=&Gesetzesnummer=&VonArtikel=&BisArtikel=&VonParagraf=7&BisParagraf=7&VonAnlage=&BisAnlage=&Typ=&Kundmachungsnummer=&Unterzeichnungsdatum=&FassungVom=30.03.2016&VonInkrafttretedatum=&BisInkrafttretedatum=&VonAusserkrafttretedatum=&BisAusserkrafttretedatum=&NormabschnittnummerKombination=Und&ImRisSeit=Undefined&ResultPageSize=100"
+  },
+  {
+    "domain_content": true, 
+    "domain_data": false, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "cc-by-sa-20", 
+    "is_okd_compliant": true, 
+    "is_osi_compliant": false, 
+    "maintainer": "", 
+    "status": "active", 
+    "title": "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 2.0", 
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  }  
+]
+
